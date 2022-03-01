@@ -1,0 +1,11 @@
+C:\code\RecompileWavJSON\RecompileWavJSON\bin\Debug\RecompileWavJSON.exe.config
+C:\code\RecompileWavJSON\RecompileWavJSON\bin\Debug\RecompileWavJSON.exe
+C:\code\RecompileWavJSON\RecompileWavJSON\bin\Debug\RecompileWavJSON.pdb
+C:\code\RecompileWavJSON\RecompileWavJSON\obj\Debug\RecompileWavJSON.csproj.AssemblyReference.cache
+C:\code\RecompileWavJSON\RecompileWavJSON\obj\Debug\RecompileWavJSON.csproj.SuggestedBindingRedirects.cache
+C:\code\RecompileWavJSON\RecompileWavJSON\obj\Debug\RecompileWavJSON.csproj.CoreCompileInputs.cache
+C:\code\RecompileWavJSON\RecompileWavJSON\obj\Debug\RecompileWavJSON.exe
+C:\code\RecompileWavJSON\RecompileWavJSON\obj\Debug\RecompileWavJSON.pdb
+C:\code\RecompileWavJSON\RecompileWavJSON\bin\Debug\Newtonsoft.Json.dll
+C:\code\RecompileWavJSON\RecompileWavJSON\bin\Debug\Newtonsoft.Json.xml
+C:\code\RecompileWavJSON\RecompileWavJSON\obj\Debug\RecompileWavJSON.csproj.CopyComplete
